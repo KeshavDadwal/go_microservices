@@ -1,0 +1,5 @@
+/middleware
+/views
+*.env
+go.mod
+go.sum
